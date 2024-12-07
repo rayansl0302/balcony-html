@@ -53,15 +53,17 @@ body {
   background-color: #253d5c;
   height: 43px;
   position: relative;
-  margin-bottom: 8vh;
-  margin-top: 8vh;
+  margin-bottom: 3vh;
+  margin-top: 3vh;
 }
-
+p {
+  font-size: 13px;
+}
 .index-title {
-  font-size: 36px;
+  font-size: 25px;
   font-weight: bold;
   background-color: #fff;
-  padding: 30px 20px;
+  padding: 20px 15px;
   color: #37575f;
   position: absolute;
   border-left: 40px solid #253d5c;
@@ -139,14 +141,15 @@ body {
 .table th {
   background-color: #253d5c;
   color: #ffffff;
-  font-size: 16px;
+  font-size: 13px;
   font-weight: bold;
 }
 
 .table td {
   vertical-align: top;
   text-align: left;
-  padding: 15px;
+  font-size: 12px;
+  padding: 5px;
 }
 
 .table-responsive {
@@ -156,7 +159,7 @@ body {
 }
 
 .text-center {
-  font-size: 14px;
+  font-size: 13px;
   color: #253d5c;
 }
 
